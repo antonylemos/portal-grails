@@ -6,17 +6,21 @@
 </head>
 <body>
 
-    <g:render template="/templates/banner" />
+    <g:render template="/templates/home/header" />
 
-    <g:render template="/templates/brands" />
+    <g:render template="/templates/home/banner" />
 
-    <g:render template="/templates/about" />
+    <g:render template="/templates/home/brands" />
 
-    <g:render template="/templates/services" />
+    <g:render template="/templates/home/about" />
 
-    <g:render template="/templates/cards" />
+    <g:render template="/templates/home/services" />
 
-    <g:render template="/templates/contact" />
+    <g:render template="/templates/home/cards" />
+
+    <g:render template="/templates/home/contact" />
+
+    <g:render template="/templates/home/footer" />
 
 </body>
 </html>

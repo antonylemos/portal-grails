@@ -7,7 +7,7 @@
                         <a href="#">
                             <asset:image src="logo.png" />
                         </a>
-                        <h4>Follow Me</h4>
+                        <h4>Também estamos nas mídias sociais</h4>
                     </div>
                     <div class="footer-social">
                         <a href="#"><i class="fa fa-facebook"></i></a>

@@ -3308,8 +3308,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .comment-form {
   text-align: center;
-  background: #fafaff;
-  border: 1px solid #eee;
+  background: #1CB0F6;
   padding: 50px 20px;
   margin-top: 50px; }
   .comment-form h4 {
@@ -3326,13 +3325,13 @@ body.mobile-nav-active #mobile-nav-toggle {
       .comment-form .email {
         padding-left: 0px; } }
   .comment-form .form-control {
-    padding: 10px;
+    padding: 15px;
     background: #fff;
     border: none;
-    border-radius: 0px;
+    border-radius: 20px;
     width: 100%;
     font-size: 13px;
-    color: #777777; }
+    color: #777; }
     .comment-form .form-control:focus {
       box-shadow: none; }
   .comment-form ::-webkit-input-placeholder {

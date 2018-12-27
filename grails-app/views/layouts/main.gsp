@@ -42,11 +42,7 @@
         </div>
     </div>
 
-    <g:render template="/templates/header" />
-
     <g:layoutBody/>
-
-    <g:render template="/templates/footer" />
 
     <asset:javascript src="jquery-2.2.4.min.js" />
     <asset:javascript src="popper.min.js" />
