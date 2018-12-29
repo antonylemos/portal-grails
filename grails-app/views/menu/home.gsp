@@ -10,5 +10,7 @@
 
         <g:render template="/templates/menu/cards" />
 
+        <g:render template="/templates/menu/modal" />
+
     </body>
 </html>

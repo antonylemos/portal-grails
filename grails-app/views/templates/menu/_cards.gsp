@@ -17,7 +17,7 @@
                             <p>O que é?</p>
                         </div>
                         <div class="top-right">
-                            <a href="#" class="primary-btn" data-text="Saiba mais">
+                            <a href="#" class="primary-btn" data-text="Saiba mais" data-toggle="modal" data-target="#substantivo">
                                 <span>S</span>
                                 <span>a</span>
                                 <span>i</span>
@@ -42,7 +42,7 @@
                             <p>O que é?</p>
                         </div>
                         <div class="top-right">
-                            <a href="#" class="primary-btn" data-text="Saiba mais">
+                            <a href="#" class="primary-btn" data-text="Saiba mais" data-toggle="modal" data-target="#verbo">
                                 <span>S</span>
                                 <span>a</span>
                                 <span>i</span>
@@ -67,7 +67,7 @@
                             <p>O que é?</p>
                         </div>
                         <div class="top-right">
-                            <a href="#" class="primary-btn" data-text="Saiba mais">
+                            <a href="#" class="primary-btn" data-text="Saiba mais" data-toggle="modal" data-target="#adjetivo">
                                 <span>S</span>
                                 <span>a</span>
                                 <span>i</span>
@@ -92,7 +92,7 @@
                             <p>O que é?</p>
                         </div>
                         <div class="top-right">
-                            <a href="#" class="primary-btn" data-text="Saiba mais">
+                            <a href="#" class="primary-btn" data-text="Saiba mais" data-toggle="modal" data-target="#pronome">
                                 <span>S</span>
                                 <span>a</span>
                                 <span>i</span>
@@ -117,7 +117,7 @@
                             <p>O que é?</p>
                         </div>
                         <div class="top-right">
-                            <a href="#" class="primary-btn" data-text="Saiba mais">
+                            <a href="#" class="primary-btn" data-text="Saiba mais" data-toggle="modal" data-target="#artigo">
                                 <span>S</span>
                                 <span>a</span>
                                 <span>i</span>
@@ -142,7 +142,7 @@
                             <p>O que é?</p>
                         </div>
                         <div class="top-right">
-                            <a href="#" class="primary-btn" data-text="Saiba mais">
+                            <a href="#" class="primary-btn" data-text="Saiba mais" data-toggle="modal" data-target="#numeral">
                                 <span>S</span>
                                 <span>a</span>
                                 <span>i</span>
@@ -167,7 +167,7 @@
                             <p>O que é?</p>
                         </div>
                         <div class="top-right">
-                            <a href="#" class="primary-btn" data-text="Saiba mais">
+                            <a href="#" class="primary-btn" data-text="Saiba mais" data-toggle="modal" data-target="#preposicao">
                                 <span>S</span>
                                 <span>a</span>
                                 <span>i</span>
@@ -192,7 +192,7 @@
                             <p>O que é?</p>
                         </div>
                         <div class="top-right">
-                            <a href="#" class="primary-btn" data-text="Saiba mais">
+                            <a href="#" class="primary-btn" data-text="Saiba mais" data-toggle="modal" data-target="#conjuncao">
                                 <span>S</span>
                                 <span>a</span>
                                 <span>i</span>
@@ -217,7 +217,7 @@
                             <p>O que é?</p>
                         </div>
                         <div class="top-right">
-                            <a href="#" class="primary-btn" data-text="Saiba mais">
+                            <a href="#" class="primary-btn" data-text="Saiba mais" data-toggle="modal" data-target="#interjeicao">
                                 <span>S</span>
                                 <span>a</span>
                                 <span>i</span>
@@ -242,7 +242,7 @@
                             <p>O que é?</p>
                         </div>
                         <div class="top-right">
-                            <a href="#" class="primary-btn" data-text="Saiba mais">
+                            <a href="#" class="primary-btn" data-text="Saiba mais" data-toggle="modal" data-target="#adverbio">
                                 <span>S</span>
                                 <span>a</span>
                                 <span>i</span>

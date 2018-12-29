@@ -111,7 +111,7 @@ environments:
                 driverClassName: com.mysql.jdbc.Driver
                 username: n1c7qyqmp1lpgfnk
                 password: qxc6s0uwm8yr74ox
-                url: mysql://n1c7qyqmp1lpgfnk:qxc6s0uwm8yr74ox@umabrisfx8afs3ja.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/aj6663si6fuv6p2m
+                url: jdbc:mysql://umabrisfx8afs3ja.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/aj6663si6fuv6p2m
                 properties:
                     jmxEnabled: true
                     initialSize: 5
